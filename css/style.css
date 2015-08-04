@@ -533,7 +533,7 @@ a:active {
 
     
 
-    height: 590px;
+    height: 550px;
 
     
 
@@ -589,7 +589,7 @@ a:active {
 
     
 
-    background-color: rgba(12, 19, 29, 0.94);
+    background-color: rgba(233, 233, 233, 0.9);
 
     overflow: hidden;
 
@@ -989,7 +989,7 @@ input.sp-selector-5:checked ~ .sp-content .sp-parallax-bg {
 
     margin: 0 auto;
 
-    padding: 40px 0 50px 0;
+    padding: 40px 0 0px 0;
 
     max-height: 100%;
 
@@ -1253,7 +1253,7 @@ input.sp-selector-5:checked ~ .sp-content .sp-slider > li:nth-child(5){
 
   color: white;
 
-  font-size: 14px;
+  font-size: 16px;
 
   line-height: 25px;
 
@@ -1966,9 +1966,9 @@ box-shadow: 5px 5px 0px #20AE61;
 
 .experinc-box-h3 {
 
-  font-size: 65px;
+  font-size: 40px;
 
-  font-weight: 100;
+  font-weight: 700;
 
   margin-bottom: 40px;
 
@@ -2201,7 +2201,8 @@ box-shadow: 5px 5px 0px #20AE61;
   padding-left: 0px;
 
   color: white;
-
+  font-size: 20px;
+  font-weight: 100;
   text-align: center;
 
 }
@@ -2215,7 +2216,8 @@ box-shadow: 5px 5px 0px #20AE61;
 .about-des {
 
   color: white;
-
+  font-size: 16px;
+  font-weight: 100;
   text-align: center;
 
 }
@@ -2393,9 +2395,9 @@ float: left;
 
   color: #FFF;
 
-  font-weight: 100;
+  font-weight: 700;
 
-  padding: 15px;
+  padding: 15px 60px;
 
 border: 1px solid #FFF;
 
@@ -2403,7 +2405,7 @@ border-radius: 4px;
 
 
 
-  font-size: 25px;
+  font-size: 24px;
 
 }
 
