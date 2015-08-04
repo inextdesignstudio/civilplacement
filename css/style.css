@@ -1195,7 +1195,7 @@ input.sp-selector-5:checked ~ .sp-content .sp-slider > li:nth-child(5){
 
 .wrap {
 
-  margin-top: 40px;
+  margin-top: 60px;
 
   margin-bottom: 40px;
 
@@ -2296,7 +2296,7 @@ box-shadow: 5px 5px 0px #20AE61;
 
   display: block;
 
-  margin: 30px 10px;
+  /* margin: 30px 10px; */
 
   padding: 10px 5px;
 
