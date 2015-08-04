@@ -587,9 +587,7 @@ a:active {
 
     height: 100%;
 
-    
-
-    background-color: rgba(233, 233, 233, 0.9);
+    background-color: rgba(101, 183, 233, 0.92);
 
     overflow: hidden;
 
@@ -989,7 +987,7 @@ input.sp-selector-5:checked ~ .sp-content .sp-parallax-bg {
 
     margin: 0 auto;
 
-    padding: 40px 0 0px 0;
+    padding: 91px 0 0px 0;
 
     max-height: 100%;
 
